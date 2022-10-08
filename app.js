@@ -28,8 +28,8 @@ function addTodo(Event){
 
     // Trash button
     const trashButton = document.createElement('button');
-    trashButton.innerHTML = '<i class="fa-regular fa-trash-can-xmark"></i>'
-    trashButton.classList.add('complete-btn');
+    trashButton.innerHTML = '<i class="fa-regular fa-trash-can"></i>'
+    trashButton.classList.add('trash-btn');
     todoDiv.appendChild(trashButton);
 
     // append to list
