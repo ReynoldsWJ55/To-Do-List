@@ -1,5 +1,7 @@
 # To-Do-List
 
+This project was my first JavaScript project. Doesn't everyone start JavaScript with a to-do list?
+
 ## Steps
 
 - Created repository on GitHub

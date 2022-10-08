@@ -28,3 +28,19 @@ form input, form button{
     border: none;
     background: white;
 }
+
+form button{
+    cursor: pointer;
+    background: white;
+    color: #fcaf7f;
+    transition: all 0.3s ease;
+}
+
+form button:hover{
+    background: #fcaf7f;
+    color: white;
+}
+
+form button i{
+    pointer-events: none;
+}
