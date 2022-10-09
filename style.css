@@ -41,7 +41,7 @@ form button:hover{
     color: white;
 }
 
-form button i{
+.fa-trash-can, .fa-square-check {
     pointer-events: none;
 }
 
@@ -65,6 +65,7 @@ form button i{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: all .5s ease;
 }
 
 .todo li{
@@ -85,4 +86,13 @@ form button i{
 }
 .trash-btn{
     background: #970f0f;
+}
+
+.todo-item{
+    padding: 0rem 0.5rem;
+}
+
+.completed{
+    text-decoration: line-through;
+    opacity: .5;
 }
