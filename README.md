@@ -7,7 +7,6 @@ This project was my first JavaScript project. Doesn't everyone start JavaScript 
 - Created repository on GitHub
 - Created HTML content
 - Styled using CSS
-- Used local storage to maintain session
 
 ## Project Preview!
 
