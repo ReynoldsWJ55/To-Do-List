@@ -14,13 +14,13 @@ This project was my first JavaScript project. Doesn't everyone start JavaScript 
 #### To-Do List
 
 All To-Dos
-![All](./Assets/All.png)
+![All](https://github.com/ReynoldsWJ55/To-Do-List/blob/e5b991cc4c0d5967c65f618c19b36efd25ee19ff/readme.images/All.png)
 
 Completed To-Dos
-![Completed](./Assets/Completed.png)
+![Completed](https://github.com/ReynoldsWJ55/To-Do-List/blob/e5b991cc4c0d5967c65f618c19b36efd25ee19ff/readme.images/Completed.png)
 
 Uncompleted To-Dos
-![Uncompleted](./Assets/Uncompleted.png)
+![Uncompleted](https://github.com/ReynoldsWJ55/To-Do-List/blob/e5b991cc4c0d5967c65f618c19b36efd25ee19ff/readme.images/Uncompleted.png)
 
 # Contact
 
